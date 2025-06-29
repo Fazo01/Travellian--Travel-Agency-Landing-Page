@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@theme{
+    --color-mediumskin: #FF7757;
+    --breakpoint-xs: 320px;
+      --breakpoint-ss: 480px;
+      --breakpoint-sm: 768px;
+      --breakpoint-md: 1152px;
+      --breakpoint-lg: 1440px;
+      --breakpoint-xl: 1980px;
+}

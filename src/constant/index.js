@@ -1,0 +1,22 @@
+export const navlinks=[
+    {
+        id:"home",
+        title:"Home"
+    },
+    {
+        id:"explore",
+        title:"Explore"
+    },
+    {
+        id:"travel",
+        title:"Travel"
+    },
+    {
+        id:"blog",
+        title:"blog"
+    },
+    {
+        id:"blog",
+        title:"blog"
+    }
+]
