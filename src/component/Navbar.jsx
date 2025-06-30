@@ -6,7 +6,7 @@ const Navbar = () => {
   const [active, setActive] = useState("Home");
   const [toggle, settoggle] = useState(false);
   return (
-    <nav className="flex w-full bg-black py-[50px] lg:px-39 md:px-10 px-8 justify-between items-center">
+    <nav className="flex w-full absolute py-[50px] lg:px-39 md:px-10 px-8 justify-between items-center">
       <img src={Logo} className="ss:w-[234px] ss:h-[45.61px] object-contain w-[140px] h-[27px]" />
       <ul className="text-white items-center sm:flex hidden">
         {navlinks.map((data, index) => (
