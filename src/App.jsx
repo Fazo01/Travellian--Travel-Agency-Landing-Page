@@ -11,7 +11,7 @@ import Our_Newsletter from './component/Our_Newsletter'
 import Footer from './component/Footer'
 const App = () => {
   return (
-    <div className=''>
+    <div className='w-full overflow-hidden'>
       <Navbar/>
       <Hero/>
       <Popular_Destinations/>
